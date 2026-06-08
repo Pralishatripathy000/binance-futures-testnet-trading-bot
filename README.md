@@ -1,3 +1,11 @@
+<p align = "center">
+
+<img width="1983" height="793" alt="ChatGPT Image Jun 8, 2026, 09_49_01 PM" src="https://github.com/user-attachments/assets/5eac04f6-f495-490b-9bb1-c773a6c4577c" />
+
+</p>
+
+
+
 # Binance Futures Testnet Trading Bot
 
 ## Overview
