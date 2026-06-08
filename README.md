@@ -192,7 +192,13 @@ ERROR | API Error
 * USDT-M Futures contracts are used.
 
 ---
+## Future Improvements
 
+- Stop-Loss and Take-Profit Orders
+- Trading Strategy Layer
+- Position Monitoring
+- Real-time Market Data Integration
+---
 ## Dependencies
 
 ```text
